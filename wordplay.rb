@@ -1,0 +1,3 @@
+class WordPlay
+
+end
